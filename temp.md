@@ -5,7 +5,7 @@ starknet call --function balanceOf --address 0x44f65adbdb59bf1db71e8b69efb7c9d0b
 | Contract | Class hash | Deployed contract | Permissions |
 | ------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | Players registry | 0x25f0f9beb3c3bf0c01678aa830ff96fad5f2bd05b23a8f4c0a2bce92ec5f25d | 0x04732b911740d44f8916db5e49ad3cb20aa2969afc942923eed04bf185738636 |  |
-| TDERC20 | 0x2de7e654139db6c8c05d7c456b953e8feba7055a25d6dc0ab5d538314d96a6 | 0x044f65adbdb59bf1db71e8b69efb7c9d0b810db94c1730a05fa5751b02d396de |  |
+| TDERC20 | 0x2de7e654139db6c8c05d7c456b953e8feba7055a25d6dc0ab5d538314d96a6 | 0x0015a20ef6ba8612e2180a125404bee648ec4a4d456d6808fb78b378ebe4a15d |  |
 | Ex01 | 0x27956db0c99ea0959280a6b3b14bdd1615a96bcf318e2d0826ed90abbd399a9 | 0x031d1866cb827c4e27bbca9ffee59fa2158b679413ffb58c3f90af56e1140e85 |  |
 | Ex02 | 0x5acbc7548d1fc3f189427ce2c7480e4f7e4bda2844833cd8e57f5b918eadfdc | 0x0600f8fe0752e598b4e6b27839f00ad65215d129f385e12931323c487b6f9b36 |  |
 | Ex03 | 0x5df061a4185d402e0b211ea6a7c772f837a028444c03e376b4dc066be5a40ec | 0x033d5fc40c0e262612528a9a652ada70be854d98241fb7548745262b5273c9d1 |  |
